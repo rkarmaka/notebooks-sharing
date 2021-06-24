@@ -192,3 +192,6 @@ conda env remove -n notebooks-sharing
 
 
 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rkarmaka/notebooks-sharing/HEAD?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rkarmaka/notebooks-sharing/HEAD?filepath=notebooks%2F4-Predict.ipynb)
